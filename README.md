@@ -1,0 +1,2 @@
+# BCGaming-Platforms
+For BC
